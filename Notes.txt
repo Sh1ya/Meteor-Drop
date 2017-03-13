@@ -1,0 +1,15 @@
+Patch notes Meteor Drop open alpa
+  *Terminado*
+  - Limite de velocidad (barrier.move)
+
+  *Falta*
+  - Diseño !    --
+  - Menu !
+  - Posible tienda
+  - Posible sistema de monedas
+
+
+
+  ideas:
+   - niveles
+   -
